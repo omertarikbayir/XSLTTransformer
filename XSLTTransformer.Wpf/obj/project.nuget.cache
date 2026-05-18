@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMkh/PwTK2w=",
+  "success": true,
+  "projectFilePath": "D:\\ForGit\\XSLTTransformer\\XSLTTransformer.Wpf\\XSLTTransformer.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev3\\.nuget\\packages\\saxon-he\\10.9.0\\saxon-he.10.9.0.nupkg.sha512",
+    "C:\\Users\\Dev3\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\Dev3\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Saxon-HE 10.9.0' paketi, proje hedef çerçevesi 'net8.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Saxon-HE",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
