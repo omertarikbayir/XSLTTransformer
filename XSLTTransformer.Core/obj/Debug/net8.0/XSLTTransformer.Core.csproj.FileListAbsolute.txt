@@ -1,0 +1,12 @@
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.csproj.AssemblyReference.cache
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.AssemblyInfoInputs.cache
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.AssemblyInfo.cs
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.csproj.CoreCompileInputs.cache
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\bin\Debug\net8.0\XSLTTransformer.Core.deps.json
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\bin\Debug\net8.0\XSLTTransformer.Core.dll
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\bin\Debug\net8.0\XSLTTransformer.Core.pdb
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.dll
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\refint\XSLTTransformer.Core.dll
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\XSLTTransformer.Core.pdb
+D:\ForGit\XSLTTransformer\XSLTTransformer.Core\obj\Debug\net8.0\ref\XSLTTransformer.Core.dll
