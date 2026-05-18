@@ -1,0 +1,6 @@
+@XSLTTransformer.Api_HostAddress = http://localhost:5241
+
+GET {{XSLTTransformer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
